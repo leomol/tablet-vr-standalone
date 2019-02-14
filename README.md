@@ -32,7 +32,7 @@ Code was last built and tested with
 * Install Java SDK and add <java-installation-path>/bin to the System Environment Variables.
 * Install Android Studio.
 * Install Unity, adding support for Android.
-* Import the [Unity package](Unity/Tablet VR - 20180615.unitypackage) or else open Unity, create a new project, copy the [Assets](Unity/Assets) folder.
+* Import the [Unity package][Unity package] or else open Unity, create a new project, copy the [Assets](Unity/Assets) folder.
 * In Unity, go to `File.. Build Settings.. Player Settings..` and change `Api Compatibility Level` to `.NET 4.x`
 
 ## Version History
@@ -49,4 +49,6 @@ This project is licensed under the [GNU GPLv3 License][LICENSE.md].
 [Android Studio]: https://developer.android.com/studio
 [Arduino IDE]: https://arduino.cc
 [Leonardo Molina]: https://github.com/leomol
+[Unity package]: Unity/Tablet VR - 20180615.unitypackage
+
 [LICENSE.md]: LICENSE.md

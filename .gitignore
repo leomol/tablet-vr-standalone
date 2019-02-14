@@ -46,7 +46,7 @@ Unity/sysinfo.txt
 
 # Builds
 Unity/*.apk
-Unity/*.unitypackage
+#Unity/*.unitypackage
 
 # Crashlytics generated file
 Unity/crashlytics-build.properties
