@@ -32,7 +32,7 @@ Code was last built and tested with
 * Install Java SDK and add <java-installation-path>/bin to the System Environment Variables.
 * Install Android Studio.
 * Install Unity, adding support for Android.
-* Import the [Unity package](Unity/Tablet\ VR\ -\ 20180615.unitypackage) or else open Unity, create a new project, copy the [Assets](Unity/Assets) folder.
+* Import the [Unity package](Unity/TabletVR-20180615.unitypackage) or else open Unity, create a new project, copy the [Assets](Unity/Assets) folder.
 * In Unity, go to `File.. Build Settings.. Player Settings..` and change `Api Compatibility Level` to `.NET 4.x`
 
 ## Version History
