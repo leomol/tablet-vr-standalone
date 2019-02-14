@@ -33,7 +33,7 @@ Code was last built and tested with
 * Install Android Studio.
 * Install Unity, adding support for Android.
 * Import the [Unity package][Unity package] or else open Unity, create a new project, copy the [Assets](Unity/Assets) folder.
-* File.. Build Settings.. Player Settings.. Api Compatibility Level --> .NET 4.x
+* In Unity, go to `File.. Build Settings.. Player Settings..` and change `Api Compatibility Level` to `.NET 4.x`
 
 ## Version History
 ### 0.1.0
