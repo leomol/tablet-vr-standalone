@@ -1,0 +1,423 @@
+fileFormatVersion: 2
+guid: 874dda0be39763e42aa0360086450484
+timeCreated: 1510878182
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: BackPanel
+    100002: BigTable
+    100004: Book
+    100006: Book.001
+    100008: Book.002
+    100010: Chair
+    100012: Chair.001
+    100014: Chair.002
+    100016: Chair.003
+    100018: Chair.004
+    100020: Chair.005
+    100022: Chair.006
+    100024: Chair.007
+    100026: Chair.008
+    100028: Chair.009
+    100030: Chair.010
+    100032: Chair.011
+    100034: Chair.012
+    100036: Chair.013
+    100038: Chair.014
+    100040: Chair.015
+    100042: //RootNode
+    100044: DoorGlass
+    100046: DoorMain
+    100048: DoorWay
+    100050: ElectricalBox
+    100052: Fan
+    100054: Fan.001
+    100056: Floor
+    100058: Greenboard
+    100060: Greenboard.001
+    100062: Greenboard.002
+    100064: Lamp
+    100066: Lamp.001
+    100068: Lamp.002
+    100070: Lamp.003
+    100072: Lamp.004
+    100074: Lamp.005
+    100076: LongTable
+    100078: PC
+    100080: PC.001
+    100082: Projector
+    100084: ProjectorHolder
+    100086: ProjectorScreen
+    100088: ProjectorSlider
+    100090: Shelf_000
+    100092: Shelf_001
+    100094: Shelf_002
+    100096: Shelf_003
+    100098: SmallTable
+    100100: Walls
+    100102: Window
+    100104: Window.001
+    100106: Window.002
+    100108: Window.003
+    100110: Window.004
+    100112: Window.005
+    400000: BackPanel
+    400002: BigTable
+    400004: Book
+    400006: Book.001
+    400008: Book.002
+    400010: Chair
+    400012: Chair.001
+    400014: Chair.002
+    400016: Chair.003
+    400018: Chair.004
+    400020: Chair.005
+    400022: Chair.006
+    400024: Chair.007
+    400026: Chair.008
+    400028: Chair.009
+    400030: Chair.010
+    400032: Chair.011
+    400034: Chair.012
+    400036: Chair.013
+    400038: Chair.014
+    400040: Chair.015
+    400042: //RootNode
+    400044: DoorGlass
+    400046: DoorMain
+    400048: DoorWay
+    400050: ElectricalBox
+    400052: Fan
+    400054: Fan.001
+    400056: Floor
+    400058: Greenboard
+    400060: Greenboard.001
+    400062: Greenboard.002
+    400064: Lamp
+    400066: Lamp.001
+    400068: Lamp.002
+    400070: Lamp.003
+    400072: Lamp.004
+    400074: Lamp.005
+    400076: LongTable
+    400078: PC
+    400080: PC.001
+    400082: Projector
+    400084: ProjectorHolder
+    400086: ProjectorScreen
+    400088: ProjectorSlider
+    400090: Shelf_000
+    400092: Shelf_001
+    400094: Shelf_002
+    400096: Shelf_003
+    400098: SmallTable
+    400100: Walls
+    400102: Window
+    400104: Window.001
+    400106: Window.002
+    400108: Window.003
+    400110: Window.004
+    400112: Window.005
+    2300000: BackPanel
+    2300002: BigTable
+    2300004: Book
+    2300006: Book.001
+    2300008: Book.002
+    2300010: Chair
+    2300012: Chair.001
+    2300014: Chair.002
+    2300016: Chair.003
+    2300018: Chair.004
+    2300020: Chair.005
+    2300022: Chair.006
+    2300024: Chair.007
+    2300026: Chair.008
+    2300028: Chair.009
+    2300030: Chair.010
+    2300032: Chair.011
+    2300034: Chair.012
+    2300036: Chair.013
+    2300038: Chair.014
+    2300040: Chair.015
+    2300042: DoorGlass
+    2300044: DoorMain
+    2300046: DoorWay
+    2300048: ElectricalBox
+    2300050: Fan
+    2300052: Fan.001
+    2300054: Floor
+    2300056: Greenboard
+    2300058: Greenboard.001
+    2300060: Greenboard.002
+    2300062: Lamp
+    2300064: Lamp.001
+    2300066: Lamp.002
+    2300068: Lamp.003
+    2300070: Lamp.004
+    2300072: Lamp.005
+    2300074: LongTable
+    2300076: PC
+    2300078: PC.001
+    2300080: Projector
+    2300082: ProjectorHolder
+    2300084: ProjectorScreen
+    2300086: ProjectorSlider
+    2300088: Shelf_000
+    2300090: Shelf_001
+    2300092: Shelf_002
+    2300094: Shelf_003
+    2300096: SmallTable
+    2300098: Walls
+    2300100: Window
+    2300102: Window.001
+    2300104: Window.002
+    2300106: Window.003
+    2300108: Window.004
+    2300110: Window.005
+    3300000: BackPanel
+    3300002: BigTable
+    3300004: Book
+    3300006: Book.001
+    3300008: Book.002
+    3300010: Chair
+    3300012: Chair.001
+    3300014: Chair.002
+    3300016: Chair.003
+    3300018: Chair.004
+    3300020: Chair.005
+    3300022: Chair.006
+    3300024: Chair.007
+    3300026: Chair.008
+    3300028: Chair.009
+    3300030: Chair.010
+    3300032: Chair.011
+    3300034: Chair.012
+    3300036: Chair.013
+    3300038: Chair.014
+    3300040: Chair.015
+    3300042: DoorGlass
+    3300044: DoorMain
+    3300046: DoorWay
+    3300048: ElectricalBox
+    3300050: Fan
+    3300052: Fan.001
+    3300054: Floor
+    3300056: Greenboard
+    3300058: Greenboard.001
+    3300060: Greenboard.002
+    3300062: Lamp
+    3300064: Lamp.001
+    3300066: Lamp.002
+    3300068: Lamp.003
+    3300070: Lamp.004
+    3300072: Lamp.005
+    3300074: LongTable
+    3300076: PC
+    3300078: PC.001
+    3300080: Projector
+    3300082: ProjectorHolder
+    3300084: ProjectorScreen
+    3300086: ProjectorSlider
+    3300088: Shelf_000
+    3300090: Shelf_001
+    3300092: Shelf_002
+    3300094: Shelf_003
+    3300096: SmallTable
+    3300098: Walls
+    3300100: Window
+    3300102: Window.001
+    3300104: Window.002
+    3300106: Window.003
+    3300108: Window.004
+    3300110: Window.005
+    4300000: Projector
+    4300002: ProjectorHolder
+    4300004: Walls
+    4300006: PC
+    4300008: Fan
+    4300010: Book.002
+    4300012: Greenboard
+    4300014: Window.005
+    4300016: Floor
+    4300018: LongTable
+    4300020: BigTable
+    4300022: SmallTable
+    4300024: ProjectorSlider
+    4300026: ProjectorScreen
+    4300028: ElectricalBox
+    4300030: Shelf_003
+    4300032: BackPanel
+    4300034: DoorMain
+    4300036: DoorWay
+    4300038: DoorGlass
+    4300040: Chair.015
+    4300042: Lamp.004
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Book
+    second: {fileID: 2100000, guid: c26c8d0e4b1a1a94581f738f9c12b16e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bookshelf
+    second: {fileID: 2100000, guid: ef408ede6c8ba0040b72620e1729a45b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chair
+    second: {fileID: 2100000, guid: 19a1209790de6434883f886e24ce4921, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door
+    second: {fileID: 2100000, guid: 809ac23c611935742b5b425da835a1db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DoorGlass
+    second: {fileID: 2100000, guid: e273c1ce5aa31684baa533009ee83feb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DoorWay
+    second: {fileID: 2100000, guid: 178da8330979b6a40be83319005babd9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ElectricalBox
+    second: {fileID: 2100000, guid: 4f9ecdb2a5e3e454ca22e4873873075a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fan
+    second: {fileID: 2100000, guid: 9112bb764eb40c6478772a9fcbe3c69d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floor
+    second: {fileID: 2100000, guid: c3a6280b54dc2a840ba1a128172f3430, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GreenBoard
+    second: {fileID: 2100000, guid: d3eddbb714885884cbb75889eb241f13, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lamp
+    second: {fileID: 2100000, guid: b016706ba165a954299cf4f4524dc2bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PC
+    second: {fileID: 2100000, guid: 50130ae1e6d4c3d499b40bae36d80f0b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Projector
+    second: {fileID: 2100000, guid: bfffdff47c68e7446bc38c7e1eecc9bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ProjectorHolder
+    second: {fileID: 2100000, guid: de125d91cc7440141af0d86037ec3516, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ProjectorScreen
+    second: {fileID: 2100000, guid: 15481db4e15a5b24998f697d4b51b197, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Table
+    second: {fileID: 2100000, guid: 718a8b697aa1dba468e196056d150018, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall
+    second: {fileID: 2100000, guid: 7f61222c0cfc4344e8f4ae3392b8a24b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Window
+    second: {fileID: 2100000, guid: 178da8330979b6a40be83319005babd9, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
