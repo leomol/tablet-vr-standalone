@@ -47,7 +47,7 @@ This project is licensed under the [GNU GPLv3 License][LICENSE.md].
 [Java SDK]: http://www.oracle.com/technetwork/java/javase/downloads/index.html
 [Unity 3D]: https://unity3d.com/unity
 [Android Studio]: https://developer.android.com/studio
-[Android IDE]: https://arduino.cc
+[Arduino IDE]: https://arduino.cc
 [Leonardo Molina]: https://github.com/leomol
 
 [LICENSE.md]: LICENSE.md
